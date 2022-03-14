@@ -1,1 +1,1 @@
-https://fast-castle-40192.herokuapp.com/api/persons
+https://fast-castle-40192.herokuapp.com/
